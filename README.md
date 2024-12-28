@@ -57,6 +57,11 @@ Give credits to author in all places
 ## Acknowledgments
 - Australian weather dataset: Source of data for training the model.
 - Python and its libraries for providing the tools to build this application.
+---
+<p>For detailed instructions and troubleshooting, please comment or contact the author.</p>
+<p>Give Credits to the author</p>
+<p>If you like this project give stars.</p>
 
-# Thank you
-Give star if you like this project
+### Thank you
+
+# **Author**: _Sivaprakash V_
